@@ -1,0 +1,9 @@
+{collection:"User",total:7}
+{name:"chuang", password:"wei",email:"chuangwei@qq.com",phone:"12345"}
+{name:"qwe", password:"qwe",email:"qwe",phone:"qwe"}
+{name:"huangkf", password:"dfa",email:"adf",phone:"daf"}
+{name:"123", password:"123",email:"123",phone:"123"}
+{name:"134", password:"134",email:"134",phone:"134"}
+{name:"ad", password:"ad",email:"ad",phone:"ad"}
+{name:"adsf", password:"adf",email:"adf",phone:"adsf"}
+{collection:"Meeting",total:0}
